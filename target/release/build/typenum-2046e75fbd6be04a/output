@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/pa10/Documents/skole/patrimal-IT3920/target/release/build/typenum-2046e75fbd6be04a/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/pa10/Documents/skole/patrimal-IT3920/target/release/build/typenum-2046e75fbd6be04a/out/op.rs

@@ -1,0 +1,17 @@
+[package]
+name = "calc_thresh"
+version = "1.0.0"
+authors = ["pa10"]
+edition = "2021"
+
+
+[lib]
+name = "calc_thresh"
+crate-type = ["cdylib"]
+
+
+
+[dependencies]
+ndarray = "0.15.4"
+statrs = "0.14.0"
+libc = "0.2"

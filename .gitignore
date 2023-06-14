@@ -1,0 +1,6 @@
+__pycache__
+weights/**/*.pt
+datasets/**/*.jpg
+datasets/**/*.tiff
+datasets/**/*.png
+thesis_venv/
